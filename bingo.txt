@@ -1,4 +1,32 @@
-Versenyrészvételi sztisztika -- pl.: melyik fordulóba hányan jutottak
-Mindeki nyertes -- 
-Vannak jók, de vannak mégjobbak --
+Versenyrészvételi statisztika -- pl.: melyik fordulóba hányan jutottak <br> (bónusz, ha valamilyen rekordot döntöttek)
+Mindenki nyertes --  
+Vannak jók, de vannak még jobbak -- A Gondolkodás Öröme alapítvány védjegyzett szlogenje
 Tehetség mellé sok munka kellett -- sok munka megemlítése önmagában nem elegendő
+Alapítvány másik programja -- 
+<i>X</i> minden pontjáról összegyűltünk -- még a messzi-messzi faluból, Miskolcról is jöttek <br> (bónusz, ha megemlítik az utazási időket)
+Tehetségesek vagytok, ezt ki kell használni -- (bónusz, ha a tehetségre a beszélő a talentum szót használja)
+Valamelyik beszélő elkésik -- Zevidu moment <br> (bónusz, ha bocsánatot kér ezért)
+Örülök, hogy itt lehetek, ennyi tehetséges gyerek között -- legalább ő örül, míg én az unalomtól őrülök
+Vidékiek korán indultak el -- hol van <span id="city"></span>? <br> (bónusz, ha megemlítik ezt a falut) -- let cities = ['Miskolc', 'Debrecen', 'Pilisvörösvár', 'Vámos']; document.getElementById('city').innerHTML = cities[Math.floor(Math.random()*cities.length)];
+Azért van, hogy terjesszük <i>X</i>-et -- <i>X</i> valamilyen tantárgy, tudományterület
+Szervezési problémák -- pl.: lemondták az előző helyen és hirtelen kell máshol megszervezni <br> (bónusz: öndicsőítés a problémák megoldása miatt)
+Random különdíj, nem tudni miért lehet kapni -- <br> (bónusz, ha legalább 5 különdíj van)
+Az aláírásos sor legalább 5 ember hosszú -- (bónusz, ha húzniuk kellett az időt emiatt rögtönzött beszéddel)
+Hány éve szervezik a versenyt -- (bónusz, ha ennek a számnak egyik matematikai tulajdonságát megemlítik)
+Jelenlegi év megjegyzése -- (bónusz, ha ennek a számnak egyik matematikai tulajdonságát megemlítik)
+Verseny történelme -- nem számít ide, hogy hány éve szervezik ezt a versenyt <br> (bónusz, ha ezt egy idős ember meséli, aki megélte a történelmét)
+COVID megemlítése -- 
+"""A beszéd rövid lesz""" -- mint mindig <br> (bónusz, ha a beszéd 15 percnél hosszabb; <br> 3x bónusz, ha 30 percnél hosszabb)
+Fiatalok, rólatok szól ez az esemény -- 
+Képviselitek az <i>X</i>-et -- 
+Fontosak vagytok -- mint a brit tőzsdések
+Ti vagytok a jövő -- hasonló megjegyzések is érnek
+Sok sikert -- (bónusz, ha nem a versenyhez)
+Motiválunk, hogy folytasd tanulmányaidat -- 
+Nekem is van gyerekem -- 
+<i>X</i> büszke rátok -- 
+Mi <i>X</i>-ünk a legjobb -- <i>X</i> vármegye, ország, ...; <br> valami nem objektív, nacionalizmus is ide <br> (bónusz, ha Trianon meg van említve)
+Szükségtelen tömeges taps -- akár a bingózó által indítva
+Egymás után két kihívott ember sincs jelen -- (bónusz, ha három)
+Videó valaminek bemutatására -- jól kinéző képekkel, de nem tartalmaz lényegi információt
+Szponzor random statisztikai adata mini kvízjátékban -- pl.: hány országban üzemel a BorsodChem <br> (bónusz, ha valaki eltalálja)

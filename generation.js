@@ -29,6 +29,10 @@ function populateTables(rawText) {
             
             cell.innerHTML += `<div class="long">${texts[textIndex].short}</div>`;
             cell.innerHTML += `<div class="short">${texts[textIndex].long}</div>`;
+
+            if (texts[textIndex].code != undefined) {
+                eval(texts[textIndex].code);
+            }
         }
     }
 }
@@ -36,8 +40,8 @@ function populateTables(rawText) {
 function parseText(text) {
     return text.split("\n")
         .map(line => {
-            [short, long] = line.split("--").map(part => part.trim());
+            [short, long, code] = line.split("--").map(part => part.trim());
 
-            return { short, long };
+            return { short, long, code };
         });
 }
