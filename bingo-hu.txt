@@ -10,7 +10,7 @@ Valamelyik beszélő elkésik -- Zevidu moment <br> (bónusz, ha bocsánatot ké
 Vidékiek korán indultak el -- hol van <span id="city"></span>? <br> (bónusz, ha megemlítik ezt a falut) -- let cities = ['Miskolc', 'Debrecen', 'Pilisvörösvár', 'Vámos']; document.getElementById('city').innerHTML = cities[Math.floor(Math.random()*cities.length)];
 Azért van, hogy terjesszük <i>X</i>-et -- <i>X</i> valamilyen tantárgy, tudományterület
 Szervezési problémák -- pl.: lemondták az előző helyen és hirtelen kell máshol megszervezni <br> (bónusz: öndicsőítés a problémák megoldása miatt)
-Random különdíj, nem tudni miért lehet kapni -- <br> (bónusz, ha legalább 5 különdíj van)
+Random különdíj, nem tudni miért lehet kapni -- (bónusz, ha legalább 5 különdíj van)
 Az aláírásos sor legalább 5 ember hosszú -- (bónusz, ha húzniuk kellett az időt emiatt rögtönzött beszéddel)
 Hány éve szervezik a versenyt -- (bónusz, ha ennek a számnak egyik matematikai tulajdonságát megemlítik)
 Jelenlegi év megjegyzése -- (bónusz, ha ennek a számnak egyik matematikai tulajdonságát megemlítik)
