@@ -1,5 +1,9 @@
 function start() {
-    fetch("bingo.txt")
+    let searchParams = new URLSearchParams(window.location.search);
+
+    let lang = searchParams.get("lang");
+
+    fetch(`bingo-${lang}.txt`)
         .then(res => res.text())
         .then(text => populateTables(text));
 }
