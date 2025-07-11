@@ -24,6 +24,15 @@ function populateTables(rawText) {
 
         for (let cellIndex = 0; cellIndex < width; cellIndex++) {
             let cell = row.insertCell();
+            
+            cell.onclick = () => {
+                if (cell.style["background-color"] !== "") {
+                    cell.style["background-color"] = "";
+                }
+                else {
+                    cell.style["background-color"] = "#ffe0e0";
+                }
+            };
 
             const textIndex = rowIndex * width + cellIndex;
 
