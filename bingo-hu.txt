@@ -1,15 +1,16 @@
 Versenyrészvételi statisztika -- pl.: melyik fordulóba hányan jutottak <br> (bónusz, ha valamilyen rekordot döntöttek)
-Mindenki nyertes --  
+Mindenki nyertes -- remélhetőleg <span id="university"></span> jelentkezésnél ezt elfogadják -- let universities = ['Cambridge', 'Oxford', 'MIT', 'Harvard', 'Stipi', 'ELTE']; document.getElementById('university').innerHTML = universities[Math.floor(Math.random()*universities.length)];
 Vannak jók, de vannak még jobbak -- A Gondolkodás Öröme alapítvány védjegyzett szlogenje
 Tehetség mellé sok munka kellett -- sok munka megemlítése önmagában nem elegendő
 Alapítvány másik programja -- 
 <i>X</i> minden pontjáról összegyűltünk -- még a messzi-messzi faluból, Miskolcról is jöttek <br> (bónusz, ha megemlítik az utazási időket)
 Tehetségesek vagytok, ezt ki kell használni -- (bónusz, ha a tehetségre a beszélő a talentum szót használja)
-Valamelyik beszélő elkésik -- Zevidu moment <br> (bónusz, ha bocsánatot kér ezért)
-Örülök, hogy itt lehetek, ennyi tehetséges gyerek között -- legalább ő örül, míg én az unalomtól őrülök
+Valamelyik beszélő elkésik -- Zevidu moment <br> (bónusz, ha bocsánatot kér egzért)
+Örülök/egy megtiszteltés, hogy itt lehetek -- legalább ő örül, míg én az unalomtól őrülök (bónusz: ennyi tehetséges gyerek között)
 Vidékiek korán indultak el -- hol van <span id="city"></span>? <br> (bónusz, ha megemlítik ezt a falut) -- let cities = ['Miskolc', 'Debrecen', 'Pilisvörösvár', 'Vámos']; document.getElementById('city').innerHTML = cities[Math.floor(Math.random()*cities.length)];
 Azért van, hogy terjesszük <i>X</i>-et -- <i>X</i> valamilyen tantárgy, tudományterület
 Szervezési problémák -- pl.: lemondták az előző helyen és hirtelen kell máshol megszervezni <br> (bónusz: öndicsőítés a problémák megoldása miatt)
+Technikai problémák a ceremónia alatt -- pl.: a mikrofon nem működik
 Random különdíj, nem tudni miért lehet kapni -- (bónusz, ha legalább 5 különdíj van)
 Az aláírásos sor legalább 5 ember hosszú -- (bónusz, ha húzniuk kellett az időt emiatt rögtönzött beszéddel)
 Hány éve szervezik a versenyt -- (bónusz, ha ennek a számnak egyik matematikai tulajdonságát megemlítik)
@@ -24,9 +25,15 @@ Ti vagytok a jövő -- hasonló megjegyzések is érnek
 Sok sikert -- (bónusz, ha nem a versenyhez)
 Motiválunk, hogy folytasd tanulmányaidat -- 
 Nekem is van gyerekem -- 
-<i>X</i> büszke rátok -- 
+<i>X</i> büszke -- 
 Mi <i>X</i>-ünk a legjobb -- <i>X</i> vármegye, ország, ...; <br> valami nem objektív, nacionalizmus is ide <br> (bónusz, ha Trianon meg van említve)
 Szükségtelen tömeges taps -- akár a bingózó által indítva
 Egymás után két kihívott ember sincs jelen -- (bónusz, ha három)
-Videó valaminek bemutatására -- jól kinéző képekkel, de nem tartalmaz lényegi információt
+Videó valaminek bemutatására -- bónusz mindegyikért (akár különböző videókra):<br>- a videó folyamatosan újraindu, legalább ötször mutatják<br>- a videó nem indul újra folyton és két külön alkalommal mutatják<br>- a videó tartalmaz sakkot, Rukik kocka kirakását vagy néptáncot
 Szponzor random statisztikai adata mini kvízjátékban -- pl.: hány országban üzemel a BorsodChem <br> (bónusz, ha valaki eltalálja)
+Ez felkészít a valóéletre --
+Élvezd/reméljük élvezted a versenyt -- az már minket nem érdekel mennyire unatkozol most
+Ez arról (is) szól, hogy új barátokat szerezz -- akikkel kéthónaponta találkozni fogsz, ha szerencséd van
+Bármilyen megjegyzés az MI-ről --
+Nyugi --
+A csapatmunka fontos -- ez egy bingó viszont egyéni
